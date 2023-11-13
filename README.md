@@ -5,19 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-kumar1" alt="manish-kumar1" /></a> </p>
 
-- 🔭 I’m currently working on **Online Repair System**
-
-- 🌱 I’m currently learning **React Nodejs Laravel**
-
-- 📝 I regularly write articles on [Programming & Web3.0](Programming & Web3.0)
-
-- 💬 Ask me about **CPP Data Structure Java**
+- 💬 Ask me about **|| C++ || Data Structure || Java ||**
 
 - 📫 How to reach me **manishkumar40105@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/ManishKumar.pdf](file:///C:/Users/HP/Downloads/ManishKumar.pdf)
-
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
